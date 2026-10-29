@@ -1,0 +1,2552 @@
+[
+  {
+    "codigo": "ad",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Andorra",
+      "en": "Andorra",
+      "es": "Andorra"
+    }
+  },
+  {
+    "codigo": "ae",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Emirados Árabes Unidos",
+      "en": "United Arab Emirates",
+      "es": "Emiratos Árabes Unidos"
+    }
+  },
+  {
+    "codigo": "af",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Afeganistão",
+      "en": "Afghanistan",
+      "es": "Afganistán"
+    }
+  },
+  {
+    "codigo": "ag",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Antígua e Barbuda",
+      "en": "Antigua and Barbuda",
+      "es": "Antigua y Barbuda"
+    }
+  },
+  {
+    "codigo": "ai",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Anguila",
+      "en": "Anguilla",
+      "es": "Anguila"
+    }
+  },
+  {
+    "codigo": "al",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Albânia",
+      "en": "Albania",
+      "es": "Albania"
+    }
+  },
+  {
+    "codigo": "am",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Armênia",
+      "en": "Armenia",
+      "es": "Armenia"
+    }
+  },
+  {
+    "codigo": "ao",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Angola",
+      "en": "Angola",
+      "es": "Angola"
+    }
+  },
+  {
+    "codigo": "aq",
+    "continente": "Antártida",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Antártida",
+      "en": "Antarctica",
+      "es": "Antártida"
+    }
+  },
+  {
+    "codigo": "ar",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Argentina",
+      "en": "Argentina",
+      "es": "Argentina"
+    }
+  },
+  {
+    "codigo": "as",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Samoa Americana",
+      "en": "American Samoa",
+      "es": "Samoa Americana"
+    }
+  },
+  {
+    "codigo": "at",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Áustria",
+      "en": "Austria",
+      "es": "Austria"
+    }
+  },
+  {
+    "codigo": "au",
+    "continente": "Oceania",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Austrália",
+      "en": "Australia",
+      "es": "Australia"
+    }
+  },
+  {
+    "codigo": "aw",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Aruba",
+      "en": "Aruba",
+      "es": "Aruba"
+    }
+  },
+  {
+    "codigo": "ax",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Åland",
+      "en": "Åland Islands",
+      "es": "Islas Åland"
+    }
+  },
+  {
+    "codigo": "az",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Azerbaijão",
+      "en": "Azerbaijan",
+      "es": "Azerbaiyán"
+    }
+  },
+  {
+    "codigo": "ba",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Bósnia e Herzegovina",
+      "en": "Bosnia and Herzegovina",
+      "es": "Bosnia y Herzegovina"
+    }
+  },
+  {
+    "codigo": "bb",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Barbados",
+      "en": "Barbados",
+      "es": "Barbados"
+    }
+  },
+  {
+    "codigo": "bd",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Bangladesh",
+      "en": "Bangladesh",
+      "es": "Bangladés"
+    }
+  },
+  {
+    "codigo": "be",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Bélgica",
+      "en": "Belgium",
+      "es": "Bélgica"
+    }
+  },
+  {
+    "codigo": "bf",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Burkina Faso",
+      "en": "Burkina Faso",
+      "es": "Burkina Faso"
+    }
+  },
+  {
+    "codigo": "bg",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Bulgária",
+      "en": "Bulgaria",
+      "es": "Bulgaria"
+    }
+  },
+  {
+    "codigo": "bh",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Bahrein",
+      "en": "Bahrain",
+      "es": "Baréin"
+    }
+  },
+  {
+    "codigo": "bi",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Burundi",
+      "en": "Burundi",
+      "es": "Burundi"
+    }
+  },
+  {
+    "codigo": "bj",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Benin",
+      "en": "Benin",
+      "es": "Benín"
+    }
+  },
+  {
+    "codigo": "bl",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "São Bartolomeu",
+      "en": "Saint Barthélemy",
+      "es": "San Bartolomé"
+    }
+  },
+  {
+    "codigo": "bm",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Bermudas",
+      "en": "Bermuda",
+      "es": "Bermudas"
+    }
+  },
+  {
+    "codigo": "bn",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Brunei",
+      "en": "Brunei",
+      "es": "Brunéi"
+    }
+  },
+  {
+    "codigo": "bo",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Bolívia",
+      "en": "Bolivia",
+      "es": "Bolivia"
+    }
+  },
+  {
+    "codigo": "bq",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Países Baixos Caribenhos",
+      "en": "Caribbean Netherlands",
+      "es": "Caribe Neerlandés"
+    }
+  },
+  {
+    "codigo": "br",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Brasil",
+      "en": "Brazil",
+      "es": "Brasil"
+    }
+  },
+  {
+    "codigo": "bs",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Bahamas",
+      "en": "Bahamas",
+      "es": "Bahamas"
+    }
+  },
+  {
+    "codigo": "bt",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Butão",
+      "en": "Bhutan",
+      "es": "Bután"
+    }
+  },
+  {
+    "codigo": "bv",
+    "continente": "Antártida",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilha Bouvet",
+      "en": "Bouvet Island",
+      "es": "Isla Bouvet"
+    }
+  },
+  {
+    "codigo": "bw",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Botsuana",
+      "en": "Botswana",
+      "es": "Botsuana"
+    }
+  },
+  {
+    "codigo": "by",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Bielorrússia",
+      "en": "Belarus",
+      "es": "Bielorrusia"
+    }
+  },
+  {
+    "codigo": "bz",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Belize",
+      "en": "Belize",
+      "es": "Belice"
+    }
+  },
+  {
+    "codigo": "ca",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Canadá",
+      "en": "Canada",
+      "es": "Canadá"
+    }
+  },
+  {
+    "codigo": "cc",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Cocos",
+      "en": "Cocos Islands",
+      "es": "Islas Cocos"
+    }
+  },
+  {
+    "codigo": "cd",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "República Democrática do Congo",
+      "en": "DR Congo",
+      "es": "RD Congo"
+    }
+  },
+  {
+    "codigo": "cf",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "República Centro-Africana",
+      "en": "Central African Republic",
+      "es": "República Centroafricana"
+    }
+  },
+  {
+    "codigo": "cg",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Congo",
+      "en": "Republic of the Congo",
+      "es": "Congo"
+    }
+  },
+  {
+    "codigo": "ch",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Suíça",
+      "en": "Switzerland",
+      "es": "Suiza"
+    }
+  },
+  {
+    "codigo": "ci",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Costa do Marfim",
+      "en": "Côte d'Ivoire",
+      "es": "Costa de Marfil"
+    }
+  },
+  {
+    "codigo": "ck",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Cook",
+      "en": "Cook Islands",
+      "es": "Islas Cook"
+    }
+  },
+  {
+    "codigo": "cl",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Chile",
+      "en": "Chile",
+      "es": "Chile"
+    }
+  },
+  {
+    "codigo": "cm",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Camarões",
+      "en": "Cameroon",
+      "es": "Camerún"
+    }
+  },
+  {
+    "codigo": "cn",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "China",
+      "en": "China",
+      "es": "China"
+    }
+  },
+  {
+    "codigo": "co",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Colômbia",
+      "en": "Colombia",
+      "es": "Colombia"
+    }
+  },
+  {
+    "codigo": "cr",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Costa Rica",
+      "en": "Costa Rica",
+      "es": "Costa Rica"
+    }
+  },
+  {
+    "codigo": "cu",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Cuba",
+      "en": "Cuba",
+      "es": "Cuba"
+    }
+  },
+  {
+    "codigo": "cv",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Cabo Verde",
+      "en": "Cape Verde",
+      "es": "Cabo Verde"
+    }
+  },
+  {
+    "codigo": "cw",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Curaçao",
+      "en": "Curaçao",
+      "es": "Curazao"
+    }
+  },
+  {
+    "codigo": "cx",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilha Christmas",
+      "en": "Christmas Island",
+      "es": "Isla de Navidad"
+    }
+  },
+  {
+    "codigo": "cy",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Chipre",
+      "en": "Cyprus",
+      "es": "Chipre"
+    }
+  },
+  {
+    "codigo": "cz",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "República Tcheca",
+      "en": "Czech Republic",
+      "es": "República Checa"
+    }
+  },
+  {
+    "codigo": "de",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Alemanha",
+      "en": "Germany",
+      "es": "Alemania"
+    }
+  },
+  {
+    "codigo": "dj",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Djibuti",
+      "en": "Djibouti",
+      "es": "Yibuti"
+    }
+  },
+  {
+    "codigo": "dk",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Dinamarca",
+      "en": "Denmark",
+      "es": "Dinamarca"
+    }
+  },
+  {
+    "codigo": "dm",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Dominica",
+      "en": "Dominica",
+      "es": "Dominica"
+    }
+  },
+  {
+    "codigo": "do",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "República Dominicana",
+      "en": "Dominican Republic",
+      "es": "República Dominicana"
+    }
+  },
+  {
+    "codigo": "dz",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Argélia",
+      "en": "Algeria",
+      "es": "Argelia"
+    }
+  },
+  {
+    "codigo": "ec",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Equador",
+      "en": "Ecuador",
+      "es": "Ecuador"
+    }
+  },
+  {
+    "codigo": "ee",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Estônia",
+      "en": "Estonia",
+      "es": "Estonia"
+    }
+  },
+  {
+    "codigo": "eg",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Egito",
+      "en": "Egypt",
+      "es": "Egipto"
+    }
+  },
+  {
+    "codigo": "eh",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Saara Ocidental",
+      "en": "Western Sahara",
+      "es": "Sahara Occidental"
+    }
+  },
+  {
+    "codigo": "er",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Eritreia",
+      "en": "Eritrea",
+      "es": "Eritrea"
+    }
+  },
+  {
+    "codigo": "es",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Espanha",
+      "en": "Spain",
+      "es": "España"
+    }
+  },
+  {
+    "codigo": "et",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Etiópia",
+      "en": "Ethiopia",
+      "es": "Etiopía"
+    }
+  },
+  {
+    "codigo": "eu",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Europa",
+      "en": "Europe",
+      "es": "Europa"
+    }
+  },
+  {
+    "codigo": "fi",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Finlândia",
+      "en": "Finland",
+      "es": "Finlandia"
+    }
+  },
+  {
+    "codigo": "fj",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Fiji",
+      "en": "Fiji",
+      "es": "Fiyi"
+    }
+  },
+  {
+    "codigo": "fk",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Malvinas",
+      "en": "Falkland Islands",
+      "es": "Islas Malvinas"
+    }
+  },
+  {
+    "codigo": "fm",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Micronésia",
+      "en": "Micronesia",
+      "es": "Micronesia"
+    }
+  },
+  {
+    "codigo": "fo",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Faroé",
+      "en": "Faroe Islands",
+      "es": "Islas Feroe"
+    }
+  },
+  {
+    "codigo": "fr",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "França",
+      "en": "France",
+      "es": "Francia"
+    }
+  },
+  {
+    "codigo": "ga",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Gabão",
+      "en": "Gabon",
+      "es": "Gabón"
+    }
+  },
+  {
+    "codigo": "gb-eng",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Inglaterra",
+      "en": "England",
+      "es": "Inglaterra"
+    }
+  },
+  {
+    "codigo": "gb-nir",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Irlanda do Norte",
+      "en": "Northern Ireland",
+      "es": "Irlanda del Norte"
+    }
+  },
+  {
+    "codigo": "gb-sct",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Escócia",
+      "en": "Scotland",
+      "es": "Escocia"
+    }
+  },
+  {
+    "codigo": "gb-wls",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "País de Gales",
+      "en": "Wales",
+      "es": "Gales"
+    }
+  },
+  {
+    "codigo": "gb",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Reino Unido",
+      "en": "United Kingdom",
+      "es": "Reino Unido"
+    }
+  },
+  {
+    "codigo": "gd",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Granada",
+      "en": "Grenada",
+      "es": "Granada"
+    }
+  },
+  {
+    "codigo": "ge",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Geórgia",
+      "en": "Georgia",
+      "es": "Georgia"
+    }
+  },
+  {
+    "codigo": "gf",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Guiana Francesa",
+      "en": "French Guiana",
+      "es": "Guayana Francesa"
+    }
+  },
+  {
+    "codigo": "gg",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Guernsey",
+      "en": "Guernsey",
+      "es": "Guernsey"
+    }
+  },
+  {
+    "codigo": "gh",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Gana",
+      "en": "Ghana",
+      "es": "Ghana"
+    }
+  },
+  {
+    "codigo": "gi",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Gibraltar",
+      "en": "Gibraltar",
+      "es": "Gibraltar"
+    }
+  },
+  {
+    "codigo": "gl",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Groenlândia",
+      "en": "Greenland",
+      "es": "Groenlandia"
+    }
+  },
+  {
+    "codigo": "gm",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Gâmbia",
+      "en": "Gambia",
+      "es": "Gambia"
+    }
+  },
+  {
+    "codigo": "gn",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Guiné",
+      "en": "Guinea",
+      "es": "Guinea"
+    }
+  },
+  {
+    "codigo": "gp",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Guadalupe",
+      "en": "Guadeloupe",
+      "es": "Guadalupe"
+    }
+  },
+  {
+    "codigo": "gq",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Guiné Equatorial",
+      "en": "Equatorial Guinea",
+      "es": "Guinea Ecuatorial"
+    }
+  },
+  {
+    "codigo": "gr",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Grécia",
+      "en": "Greece",
+      "es": "Grecia"
+    }
+  },
+  {
+    "codigo": "gs",
+    "continente": "Antártida",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Geórgia do Sul",
+      "en": "South Georgia",
+      "es": "Islas Georgias del Sur"
+    }
+  },
+  {
+    "codigo": "gt",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Guatemala",
+      "en": "Guatemala",
+      "es": "Guatemala"
+    }
+  },
+  {
+    "codigo": "gu",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Guam",
+      "en": "Guam",
+      "es": "Guam"
+    }
+  },
+  {
+    "codigo": "gw",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Guiné-Bissau",
+      "en": "Guinea-Bissau",
+      "es": "Guinea-Bisáu"
+    }
+  },
+  {
+    "codigo": "gy",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Guiana",
+      "en": "Guyana",
+      "es": "Guyana"
+    }
+  },
+  {
+    "codigo": "hk",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Hong Kong",
+      "en": "Hong Kong",
+      "es": "Hong Kong"
+    }
+  },
+  {
+    "codigo": "hm",
+    "continente": "Antártida",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Heard e McDonald",
+      "en": "Heard Island",
+      "es": "Islas Heard"
+    }
+  },
+  {
+    "codigo": "hn",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Honduras",
+      "en": "Honduras",
+      "es": "Honduras"
+    }
+  },
+  {
+    "codigo": "hr",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Croácia",
+      "en": "Croatia",
+      "es": "Croacia"
+    }
+  },
+  {
+    "codigo": "ht",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Haiti",
+      "en": "Haiti",
+      "es": "Haití"
+    }
+  },
+  {
+    "codigo": "hu",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Hungria",
+      "en": "Hungary",
+      "es": "Hungría"
+    }
+  },
+  {
+    "codigo": "id",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Indonésia",
+      "en": "Indonesia",
+      "es": "Indonesia"
+    }
+  },
+  {
+    "codigo": "ie",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Irlanda",
+      "en": "Ireland",
+      "es": "Irlanda"
+    }
+  },
+  {
+    "codigo": "il",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Israel",
+      "en": "Israel",
+      "es": "Israel"
+    }
+  },
+  {
+    "codigo": "im",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilha de Man",
+      "en": "Isle of Man",
+      "es": "Isla de Man"
+    }
+  },
+  {
+    "codigo": "in",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Índia",
+      "en": "India",
+      "es": "India"
+    }
+  },
+  {
+    "codigo": "io",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Território Britânico do Oceano Índico",
+      "en": "British Indian Ocean Territory",
+      "es": "Territorio Británico del Océano Índico"
+    }
+  },
+  {
+    "codigo": "iq",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Iraque",
+      "en": "Iraq",
+      "es": "Irak"
+    }
+  },
+  {
+    "codigo": "ir",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Irã",
+      "en": "Iran",
+      "es": "Irán"
+    }
+  },
+  {
+    "codigo": "is",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Islândia",
+      "en": "Iceland",
+      "es": "Islandia"
+    }
+  },
+  {
+    "codigo": "it",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Itália",
+      "en": "Italy",
+      "es": "Italia"
+    }
+  },
+  {
+    "codigo": "je",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Jersey",
+      "en": "Jersey",
+      "es": "Jersey"
+    }
+  },
+  {
+    "codigo": "jm",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Jamaica",
+      "en": "Jamaica",
+      "es": "Jamaica"
+    }
+  },
+  {
+    "codigo": "jo",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Jordânia",
+      "en": "Jordan",
+      "es": "Jordania"
+    }
+  },
+  {
+    "codigo": "jp",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Japão",
+      "en": "Japan",
+      "es": "Japón"
+    }
+  },
+  {
+    "codigo": "ke",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Quênia",
+      "en": "Kenya",
+      "es": "Kenia"
+    }
+  },
+  {
+    "codigo": "kg",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Quirguistão",
+      "en": "Kyrgyzstan",
+      "es": "Kirguistán"
+    }
+  },
+  {
+    "codigo": "kh",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Camboja",
+      "en": "Cambodia",
+      "es": "Camboya"
+    }
+  },
+  {
+    "codigo": "ki",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Kiribati",
+      "en": "Kiribati",
+      "es": "Kiribati"
+    }
+  },
+  {
+    "codigo": "km",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Comores",
+      "en": "Comoros",
+      "es": "Comoras"
+    }
+  },
+  {
+    "codigo": "kn",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "São Cristóvão e Névis",
+      "en": "Saint Kitts and Nevis",
+      "es": "San Cristóbal y Nieves"
+    }
+  },
+  {
+    "codigo": "kp",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Coreia do Norte",
+      "en": "North Korea",
+      "es": "Corea del Norte"
+    }
+  },
+  {
+    "codigo": "kr",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Coreia do Sul",
+      "en": "South Korea",
+      "es": "Corea del Sur"
+    }
+  },
+  {
+    "codigo": "kw",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Kuwait",
+      "en": "Kuwait",
+      "es": "Kuwait"
+    }
+  },
+  {
+    "codigo": "ky",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Cayman",
+      "en": "Cayman Islands",
+      "es": "Islas Caimán"
+    }
+  },
+  {
+    "codigo": "kz",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Cazaquistão",
+      "en": "Kazakhstan",
+      "es": "Kazajistán"
+    }
+  },
+  {
+    "codigo": "la",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Laos",
+      "en": "Laos",
+      "es": "Laos"
+    }
+  },
+  {
+    "codigo": "lb",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Líbano",
+      "en": "Lebanon",
+      "es": "Líbano"
+    }
+  },
+  {
+    "codigo": "lc",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Santa Lúcia",
+      "en": "Saint Lucia",
+      "es": "Santa Lucía"
+    }
+  },
+  {
+    "codigo": "li",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Liechtenstein",
+      "en": "Liechtenstein",
+      "es": "Liechtenstein"
+    }
+  },
+  {
+    "codigo": "lk",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Sri Lanka",
+      "en": "Sri Lanka",
+      "es": "Sri Lanka"
+    }
+  },
+  {
+    "codigo": "lr",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Libéria",
+      "en": "Liberia",
+      "es": "Liberia"
+    }
+  },
+  {
+    "codigo": "ls",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Lesoto",
+      "en": "Lesotho",
+      "es": "Lesoto"
+    }
+  },
+  {
+    "codigo": "lt",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Lituânia",
+      "en": "Lithuania",
+      "es": "Lituania"
+    }
+  },
+  {
+    "codigo": "lu",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Luxemburgo",
+      "en": "Luxembourg",
+      "es": "Luxemburgo"
+    }
+  },
+  {
+    "codigo": "lv",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Letônia",
+      "en": "Latvia",
+      "es": "Letonia"
+    }
+  },
+  {
+    "codigo": "ly",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Líbia",
+      "en": "Libya",
+      "es": "Libia"
+    }
+  },
+  {
+    "codigo": "ma",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Marrocos",
+      "en": "Morocco",
+      "es": "Marruecos"
+    }
+  },
+  {
+    "codigo": "mc",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Mônaco",
+      "en": "Monaco",
+      "es": "Mónaco"
+    }
+  },
+  {
+    "codigo": "md",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Moldávia",
+      "en": "Moldova",
+      "es": "Moldavia"
+    }
+  },
+  {
+    "codigo": "me",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Montenegro",
+      "en": "Montenegro",
+      "es": "Montenegro"
+    }
+  },
+  {
+    "codigo": "mf",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "São Martinho",
+      "en": "Saint Martin",
+      "es": "San Martín"
+    }
+  },
+  {
+    "codigo": "mg",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Madagascar",
+      "en": "Madagascar",
+      "es": "Madagascar"
+    }
+  },
+  {
+    "codigo": "mh",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Marshall",
+      "en": "Marshall Islands",
+      "es": "Islas Marshall"
+    }
+  },
+  {
+    "codigo": "mk",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Macedônia do Norte",
+      "en": "North Macedonia",
+      "es": "Macedonia del Norte"
+    }
+  },
+  {
+    "codigo": "ml",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Mali",
+      "en": "Mali",
+      "es": "Mali"
+    }
+  },
+  {
+    "codigo": "mm",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Mianmar",
+      "en": "Myanmar",
+      "es": "Birmania"
+    }
+  },
+  {
+    "codigo": "mn",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Mongólia",
+      "en": "Mongolia",
+      "es": "Mongolia"
+    }
+  },
+  {
+    "codigo": "mo",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Macau",
+      "en": "Macao",
+      "es": "Macao"
+    }
+  },
+  {
+    "codigo": "mp",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Marianas do Norte",
+      "en": "Northern Mariana Islands",
+      "es": "Islas Marianas del Norte"
+    }
+  },
+  {
+    "codigo": "mq",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Martinica",
+      "en": "Martinique",
+      "es": "Martinica"
+    }
+  },
+  {
+    "codigo": "mr",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Mauritânia",
+      "en": "Mauritania",
+      "es": "Mauritania"
+    }
+  },
+  {
+    "codigo": "ms",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Montserrat",
+      "en": "Montserrat",
+      "es": "Montserrat"
+    }
+  },
+  {
+    "codigo": "mt",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Malta",
+      "en": "Malta",
+      "es": "Malta"
+    }
+  },
+  {
+    "codigo": "mu",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Maurício",
+      "en": "Mauritius",
+      "es": "Mauricio"
+    }
+  },
+  {
+    "codigo": "mv",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Maldivas",
+      "en": "Maldives",
+      "es": "Maldivas"
+    }
+  },
+  {
+    "codigo": "mw",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Malawi",
+      "en": "Malawi",
+      "es": "Malaui"
+    }
+  },
+  {
+    "codigo": "mx",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "México",
+      "en": "Mexico",
+      "es": "México"
+    }
+  },
+  {
+    "codigo": "my",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Malásia",
+      "en": "Malaysia",
+      "es": "Malasia"
+    }
+  },
+  {
+    "codigo": "mz",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Moçambique",
+      "en": "Mozambique",
+      "es": "Mozambique"
+    }
+  },
+  {
+    "codigo": "na",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Namíbia",
+      "en": "Namibia",
+      "es": "Namibia"
+    }
+  },
+  {
+    "codigo": "nc",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Nova Caledônia",
+      "en": "New Caledonia",
+      "es": "Nueva Caledonia"
+    }
+  },
+  {
+    "codigo": "ne",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Níger",
+      "en": "Niger",
+      "es": "Níger"
+    }
+  },
+  {
+    "codigo": "nf",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilha Norfolk",
+      "en": "Norfolk Island",
+      "es": "Isla Norfolk"
+    }
+  },
+  {
+    "codigo": "ng",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Nigéria",
+      "en": "Nigeria",
+      "es": "Nigeria"
+    }
+  },
+  {
+    "codigo": "ni",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Nicarágua",
+      "en": "Nicaragua",
+      "es": "Nicaragua"
+    }
+  },
+  {
+    "codigo": "nl",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Países Baixos",
+      "en": "Netherlands",
+      "es": "Países Bajos"
+    }
+  },
+  {
+    "codigo": "no",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Noruega",
+      "en": "Norway",
+      "es": "Noruega"
+    }
+  },
+  {
+    "codigo": "np",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Nepal",
+      "en": "Nepal",
+      "es": "Nepal"
+    }
+  },
+  {
+    "codigo": "nr",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Nauru",
+      "en": "Nauru",
+      "es": "Nauru"
+    }
+  },
+  {
+    "codigo": "nu",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Niue",
+      "en": "Niue",
+      "es": "Niue"
+    }
+  },
+  {
+    "codigo": "nz",
+    "continente": "Oceania",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Nova Zelândia",
+      "en": "New Zealand",
+      "es": "Nueva Zelanda"
+    }
+  },
+  {
+    "codigo": "om",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Omã",
+      "en": "Oman",
+      "es": "Omán"
+    }
+  },
+  {
+    "codigo": "pa",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Panamá",
+      "en": "Panama",
+      "es": "Panamá"
+    }
+  },
+  {
+    "codigo": "pe",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Peru",
+      "en": "Peru",
+      "es": "Perú"
+    }
+  },
+  {
+    "codigo": "pf",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Polinésia Francesa",
+      "en": "French Polynesia",
+      "es": "Polinesia Francesa"
+    }
+  },
+  {
+    "codigo": "pg",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Papua Nova Guiné",
+      "en": "Papua New Guinea",
+      "es": "Papúa Nueva Guinea"
+    }
+  },
+  {
+    "codigo": "ph",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Filipinas",
+      "en": "Philippines",
+      "es": "Filipinas"
+    }
+  },
+  {
+    "codigo": "pk",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Paquistão",
+      "en": "Pakistan",
+      "es": "Pakistán"
+    }
+  },
+  {
+    "codigo": "pl",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Polônia",
+      "en": "Poland",
+      "es": "Polonia"
+    }
+  },
+  {
+    "codigo": "pm",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "São Pedro e Miquelon",
+      "en": "Saint Pierre and Miquelon",
+      "es": "San Pedro y Miquelón"
+    }
+  },
+  {
+    "codigo": "pn",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Pitcairn",
+      "en": "Pitcairn",
+      "es": "Islas Pitcairn"
+    }
+  },
+  {
+    "codigo": "pr",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Porto Rico",
+      "en": "Puerto Rico",
+      "es": "Puerto Rico"
+    }
+  },
+  {
+    "codigo": "ps",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Palestina",
+      "en": "Palestine",
+      "es": "Palestina"
+    }
+  },
+  {
+    "codigo": "pt",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Portugal",
+      "en": "Portugal",
+      "es": "Portugal"
+    }
+  },
+  {
+    "codigo": "pw",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Palau",
+      "en": "Palau",
+      "es": "Palaos"
+    }
+  },
+  {
+    "codigo": "py",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Paraguai",
+      "en": "Paraguay",
+      "es": "Paraguay"
+    }
+  },
+  {
+    "codigo": "qa",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Catar",
+      "en": "Qatar",
+      "es": "Catar"
+    }
+  },
+  {
+    "codigo": "re",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Reunião",
+      "en": "Réunion",
+      "es": "Reunión"
+    }
+  },
+  {
+    "codigo": "ro",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Romênia",
+      "en": "Romania",
+      "es": "Rumania"
+    }
+  },
+  {
+    "codigo": "rs",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Sérvia",
+      "en": "Serbia",
+      "es": "Serbia"
+    }
+  },
+  {
+    "codigo": "ru",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Rússia",
+      "en": "Russia",
+      "es": "Rusia"
+    }
+  },
+  {
+    "codigo": "rw",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ruanda",
+      "en": "Rwanda",
+      "es": "Ruanda"
+    }
+  },
+  {
+    "codigo": "sa",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Arábia Saudita",
+      "en": "Saudi Arabia",
+      "es": "Arabia Saudita"
+    }
+  },
+  {
+    "codigo": "sb",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Salomão",
+      "en": "Solomon Islands",
+      "es": "Islas Salomón"
+    }
+  },
+  {
+    "codigo": "sc",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Seychelles",
+      "en": "Seychelles",
+      "es": "Seychelles"
+    }
+  },
+  {
+    "codigo": "sd",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Sudão",
+      "en": "Sudan",
+      "es": "Sudán"
+    }
+  },
+  {
+    "codigo": "se",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Suécia",
+      "en": "Sweden",
+      "es": "Suecia"
+    }
+  },
+  {
+    "codigo": "sg",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Singapura",
+      "en": "Singapore",
+      "es": "Singapur"
+    }
+  },
+  {
+    "codigo": "sh",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Santa Helena",
+      "en": "Saint Helena",
+      "es": "Santa Elena"
+    }
+  },
+  {
+    "codigo": "si",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Eslovênia",
+      "en": "Slovenia",
+      "es": "Eslovenia"
+    }
+  },
+  {
+    "codigo": "sj",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Svalbard e Jan Mayen",
+      "en": "Svalbard",
+      "es": "Svalbard"
+    }
+  },
+  {
+    "codigo": "sk",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Eslováquia",
+      "en": "Slovakia",
+      "es": "Eslovaquia"
+    }
+  },
+  {
+    "codigo": "sl",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Serra Leoa",
+      "en": "Sierra Leone",
+      "es": "Sierra Leona"
+    }
+  },
+  {
+    "codigo": "sm",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "San Marino",
+      "en": "San Marino",
+      "es": "San Marino"
+    }
+  },
+  {
+    "codigo": "sn",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Senegal",
+      "en": "Senegal",
+      "es": "Senegal"
+    }
+  },
+  {
+    "codigo": "so",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Somália",
+      "en": "Somalia",
+      "es": "Somalia"
+    }
+  },
+  {
+    "codigo": "sr",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Suriname",
+      "en": "Suriname",
+      "es": "Surinam"
+    }
+  },
+  {
+    "codigo": "ss",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Sudão do Sul",
+      "en": "South Sudan",
+      "es": "Sudán del Sur"
+    }
+  },
+  {
+    "codigo": "st",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "São Tomé e Príncipe",
+      "en": "Sao Tome and Principe",
+      "es": "Santo Tomé y Príncipe"
+    }
+  },
+  {
+    "codigo": "sv",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "El Salvador",
+      "en": "El Salvador",
+      "es": "El Salvador"
+    }
+  },
+  {
+    "codigo": "sx",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Sint Maarten",
+      "en": "Sint Maarten",
+      "es": "San Martín (Países Bajos)"
+    }
+  },
+  {
+    "codigo": "sy",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Síria",
+      "en": "Syria",
+      "es": "Siria"
+    }
+  },
+  {
+    "codigo": "sz",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Eswatini",
+      "en": "Eswatini",
+      "es": "Esuatini"
+    }
+  },
+  {
+    "codigo": "tc",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Turks e Caicos",
+      "en": "Turks and Caicos Islands",
+      "es": "Islas Turcas y Caicos"
+    }
+  },
+  {
+    "codigo": "td",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Chade",
+      "en": "Chad",
+      "es": "Chad"
+    }
+  },
+  {
+    "codigo": "tf",
+    "continente": "Antártida",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Terras Austrais Francesas",
+      "en": "French Southern Territories",
+      "es": "Tierras Australes Francesas"
+    }
+  },
+  {
+    "codigo": "tg",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Togo",
+      "en": "Togo",
+      "es": "Togo"
+    }
+  },
+  {
+    "codigo": "th",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Tailândia",
+      "en": "Thailand",
+      "es": "Tailandia"
+    }
+  },
+  {
+    "codigo": "tj",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Tajiquistão",
+      "en": "Tajikistan",
+      "es": "Tayikistán"
+    }
+  },
+  {
+    "codigo": "tk",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Tokelau",
+      "en": "Tokelau",
+      "es": "Tokelau"
+    }
+  },
+  {
+    "codigo": "tl",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Timor-Leste",
+      "en": "Timor-Leste",
+      "es": "Timor Oriental"
+    }
+  },
+  {
+    "codigo": "tm",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Turcomenistão",
+      "en": "Turkmenistan",
+      "es": "Turkmenistán"
+    }
+  },
+  {
+    "codigo": "tn",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Tunísia",
+      "en": "Tunisia",
+      "es": "Túnez"
+    }
+  },
+  {
+    "codigo": "to",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Tonga",
+      "en": "Tonga",
+      "es": "Tonga"
+    }
+  },
+  {
+    "codigo": "tr",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Turquia",
+      "en": "Turkey",
+      "es": "Turquía"
+    }
+  },
+  {
+    "codigo": "tt",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Trinidad e Tobago",
+      "en": "Trinidad and Tobago",
+      "es": "Trinidad y Tobago"
+    }
+  },
+  {
+    "codigo": "tv",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Tuvalu",
+      "en": "Tuvalu",
+      "es": "Tuvalu"
+    }
+  },
+  {
+    "codigo": "tw",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Taiwan",
+      "en": "Taiwan",
+      "es": "Taiwán"
+    }
+  },
+  {
+    "codigo": "tz",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Tanzânia",
+      "en": "Tanzania",
+      "es": "Tanzania"
+    }
+  },
+  {
+    "codigo": "ua",
+    "continente": "Europa",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Ucrânia",
+      "en": "Ukraine",
+      "es": "Ucrania"
+    }
+  },
+  {
+    "codigo": "ug",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Uganda",
+      "en": "Uganda",
+      "es": "Uganda"
+    }
+  },
+  {
+    "codigo": "um",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Menores Distantes dos EUA",
+      "en": "US Minor Outlying Islands",
+      "es": "Islas Ultramarinas Menores de EE. UU."
+    }
+  },
+  {
+    "codigo": "us",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Estados Unidos",
+      "en": "United States",
+      "es": "Estados Unidos"
+    }
+  },
+  {
+    "codigo": "uy",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Uruguai",
+      "en": "Uruguay",
+      "es": "Uruguay"
+    }
+  },
+  {
+    "codigo": "uz",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Uzbequistão",
+      "en": "Uzbekistan",
+      "es": "Uzbekistán"
+    }
+  },
+  {
+    "codigo": "va",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Vaticano",
+      "en": "Vatican City",
+      "es": "Ciudad del Vaticano"
+    }
+  },
+  {
+    "codigo": "vc",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "São Vicente e Granadinas",
+      "en": "Saint Vincent and the Grenadines",
+      "es": "San Vicente y las Granadinas"
+    }
+  },
+  {
+    "codigo": "ve",
+    "continente": "América",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Venezuela",
+      "en": "Venezuela",
+      "es": "Venezuela"
+    }
+  },
+  {
+    "codigo": "vg",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Virgens Britânicas",
+      "en": "British Virgin Islands",
+      "es": "Islas Vírgenes Británicas"
+    }
+  },
+  {
+    "codigo": "vi",
+    "continente": "América",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Ilhas Virgens Americanas",
+      "en": "U.S. Virgin Islands",
+      "es": "Islas Vírgenes de los EE. UU."
+    }
+  },
+  {
+    "codigo": "vn",
+    "continente": "Ásia",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "Vietnã",
+      "en": "Vietnam",
+      "es": "Vietnam"
+    }
+  },
+  {
+    "codigo": "vu",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Vanuatu",
+      "en": "Vanuatu",
+      "es": "Vanuatu"
+    }
+  },
+  {
+    "codigo": "wf",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Wallis e Futuna",
+      "en": "Wallis and Futuna",
+      "es": "Wallis y Futuna"
+    }
+  },
+  {
+    "codigo": "ws",
+    "continente": "Oceania",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Samoa",
+      "en": "Samoa",
+      "es": "Samoa"
+    }
+  },
+  {
+    "codigo": "xk",
+    "continente": "Europa",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Kosovo",
+      "en": "Kosovo",
+      "es": "Kosovo"
+    }
+  },
+  {
+    "codigo": "ye",
+    "continente": "Ásia",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Iêmen",
+      "en": "Yemen",
+      "es": "Yemen"
+    }
+  },
+  {
+    "codigo": "yt",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Mayotte",
+      "en": "Mayotte",
+      "es": "Mayotte"
+    }
+  },
+  {
+    "codigo": "za",
+    "continente": "África",
+    "dificuldade": "facil",
+    "nomes": {
+      "pt": "África do Sul",
+      "en": "South Africa",
+      "es": "Sudáfrica"
+    }
+  },
+  {
+    "codigo": "zm",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Zâmbia",
+      "en": "Zambia",
+      "es": "Zambia"
+    }
+  },
+  {
+    "codigo": "zw",
+    "continente": "África",
+    "dificuldade": "dificil",
+    "nomes": {
+      "pt": "Zimbábue",
+      "en": "Zimbabwe",
+      "es": "Zimbabue"
+    }
+  }
+]
